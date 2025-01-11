@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: improper handling of division by zero. The `foo` function attempts division but fails to correctly handle cases where either `a` or `b` is 0. The solution provides improved error handling.
